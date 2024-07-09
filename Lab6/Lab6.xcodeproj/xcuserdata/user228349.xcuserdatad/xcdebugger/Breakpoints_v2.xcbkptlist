@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1D49B45F-EBA6-41E5-A346-47DB7564B1A0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C3E8997-AF5E-4931-BEAC-682DEA4B55C6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab6/TodoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "TodoViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8C3E8997-AF5E-4931-BEAC-682DEA4B55C6 - 2538c271ed2a3ecc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab6.Todo.TodoViewController.tableview1.getter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "Lab6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user228349/Desktop/Lab6/Lab6/TodoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "8C3E8997-AF5E-4931-BEAC-682DEA4B55C6 - 245953f400100238"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab6.Todo.TodoViewController.tableview1.setter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "Lab6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user228349/Desktop/Lab6/Lab6/TodoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "8C3E8997-AF5E-4931-BEAC-682DEA4B55C6 - 28a09d9d913dbc9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab6.Todo.TodoViewController.tableview1.modify : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "Lab6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user228349/Desktop/Lab6/Lab6/TodoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "8C3E8997-AF5E-4931-BEAC-682DEA4B55C6 - 3fc942de9b53e5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab6.Todo.TodoViewController.tableview1.modify : Swift.Optional&lt;__C.UITableView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Lab6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user228349/Desktop/Lab6/Lab6/TodoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "8C3E8997-AF5E-4931-BEAC-682DEA4B55C6 - 40a14ae222a524a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab6.Todo.TodoViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Lab6.Todo.TodoViewController"
+                  moduleName = "Lab6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user228349/Desktop/Lab6/Lab6/TodoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "915">
+               </Location>
+               <Location
+                  uuid = "8C3E8997-AF5E-4931-BEAC-682DEA4B55C6 - 4632205b2cba0128"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab6.Todo.TodoViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Lab6.Todo.TodoViewController&gt;"
+                  moduleName = "Lab6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user228349/Desktop/Lab6/Lab6/TodoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "857">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
